@@ -1,4 +1,4 @@
-import pandas as pd 
+import pandas as pd
 
 def getDataframeSize(players):
     cols,rows=players.shape
